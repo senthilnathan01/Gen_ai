@@ -1,1 +1,1 @@
-Proper documentation and description for each project is yet to be done.
+Generative AI application to automate SQL query generation from natural language prompts using Gemini Pro.
